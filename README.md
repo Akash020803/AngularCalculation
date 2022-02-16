@@ -46,7 +46,7 @@ Publish the website in the given URL.
         <Pyramid-Volume class="forms"></Pyramid-Volume>
     </div>
     <div class="footer">
-      &copy; Copyright. All Rights Reserved | Developed by Shafeeq Ahamed.S
+      &copy; Copyright. All Rights Reserved | Developed by Akash A
     </div>
     </div>
   
